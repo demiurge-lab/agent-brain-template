@@ -23,6 +23,6 @@ What only the owner can decide about their own life, work, people, money or send
 
 None yet.
 
-## Dates and uncertainties to recheck when relevant
+## Dates
 
 None yet.

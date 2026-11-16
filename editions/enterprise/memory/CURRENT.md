@@ -23,6 +23,6 @@ What only a member can decide about their own work, or the operator about the ag
 
 None yet.
 
-## Dates and uncertainties to recheck when relevant
+## Dates
 
 None yet.
